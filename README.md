@@ -1,6 +1,6 @@
 ### Olá, eu sou Jean Michel Biz!
 
-- 🌱 Estou estudando Front end.
+- 🌱 Atualmente estudando Desenvolvimento Web Full Stack na Kenzie.
 
 <div align="center">
   <a href="https://github.com/jeanmbiz">
