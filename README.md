@@ -22,7 +22,7 @@
   <a href = "mailto:jeanmbiz@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
  
-  ![Snake animation](https://github.com/rafaballerini/jeanmbiz/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/jeanmbiz/jeanmbiz/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
