@@ -1,4 +1,4 @@
-### Olá, eu sou Jean Michel Biz!
+### Olá, eu sou Jean Michel Biz, sou Devenvolvedor Full Stack em formação pela Kenzie.
 
 - 🌱 Atualmente estudando Desenvolvimento Web Full Stack na Kenzie.
 
