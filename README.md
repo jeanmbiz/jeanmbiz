@@ -1,4 +1,4 @@
-### Olá, eu sou Jean Michel Biz, sou Devenvolvedor Full Stack em formação, tecnologias que aprendi e estou me aprofundando: HTML5, CSS, Javascript e React.
+### Olá, eu sou Jean Michel Biz, atualmente estou como Devenvolvedor Full Stack em formação.
 
 <div align="center">
   <a href="https://github.com/jeanmbiz">
