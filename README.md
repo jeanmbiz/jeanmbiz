@@ -1,5 +1,5 @@
 # 
-<h1 align="center"> Olá, eu sou Jean Michel Biz, atualmente estou como Devenvolvedor Full Stack em formação na Kenzie! </h1>
+<h1 align="center"> Olá, eu sou Jean Michel Biz, atualmente estou como Devenvolvedor Full Stack em formação na Kenzie!! </h1>
 
 <div align="center"> 
    <h2> Você pode me encontrar aqui: </h2>
