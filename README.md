@@ -32,7 +32,7 @@
    
    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=100&section=header&text=&fontSize=15&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=30&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Jean+Michel+Biz;I'm+from+Indaial,+Santa+Catarina,+Brazil;and+I`m+a+front-end+developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=30&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Jean+Michel+Biz;I'm+from+Indaial,+Santa+Catarina;and+I`m+a+front-end+developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 ###
 
@@ -46,20 +46,9 @@
 <hr/>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/dbento/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/dbentooojj/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="instagram logo"  />
-  </a>
-  <a href="https://www.facebook.com/dbentooo" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="facebook logo"  />
-  </a>
-  <a href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWsdCtJmtkCQxLdvhkgXZlNDsGhjslsJnkMFQrPpZTZJdpNsFvrjNFFCDZsttwwJkLhxtNvgb" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="gmail logo"  />
-  </a>
-  <a href="https://twitter.com/dbentooojj" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="twitter logo"  />
+<a href="https://www.linkedin.com/in/jean-michel-biz-7892a0247/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:jeanmbiz@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/jean_bizz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   </a>
   <a href="https://wa.me/5547999600742" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="whatsapp logo"  />
