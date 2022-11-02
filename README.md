@@ -51,14 +51,6 @@
 
 ###
 
-  <div align="center">
-  <a href="https://github.com/jeanmbiz">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jeanmbiz&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanmbiz&layout=compact&langs_count=7&theme=default"/>
-</div>
-
-
-
 ###
    
    <div align="center">
@@ -69,14 +61,22 @@
   <img align="center" alt="Logo-GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> 
    </div>
 
-
-  
-<div align="center">
-<h3>"Todos neste país deveriam aprender a programar um computador, pois isto ensina a pensar." - Steve Jobs<h3/>
-</div>
-
 ###
 
+  <div align="center">
+  <a href="https://github.com/jeanmbiz">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jeanmbiz&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanmbiz&layout=compact&langs_count=7&theme=default"/>
+</div>
+
+<hr/>
+
+
+
   ![Snake animation](https://github.com/jeanmbiz/jeanmbiz/blob/output/github-contribution-grid-snake.svg)
+   
+   <div align="center">
+<h3>"Todos neste país deveriam aprender a programar um computador, pois isto ensina a pensar." - Steve Jobs<h3/>
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=100&section=footer"/>
