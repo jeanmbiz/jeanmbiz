@@ -16,10 +16,11 @@
    
    <a href="https://wa.me/5547984851404" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="whatsapp logo"  />
-   
   </a>
   
 </div>
+
+<a href="https://api.whatsapp.com/send/?phone=5547984851404&text=Ol%C3%A1%2C+estou+entrando+em+contato+com+voc%C3%AA+pelo+seu+n%C3%BAmero+disponibilizado+no+GitHub.&type=phone_number&app_absent=0" >  CLICA AQUIPRA MANDAR MENSAGEM PRA MIM </a>
 
 <hr/>
 
