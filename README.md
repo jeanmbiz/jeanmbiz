@@ -10,7 +10,12 @@
   <a href="https://instagram.com/jean_bizz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   </a>
 <a href="https://wa.me/5547984851404" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" 
+         alt="whatsapp logo"  />
+   
+   <a href="https://wa.me/5547984851404" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="whatsapp logo"  />
+   
   </a>
   
 </div>
