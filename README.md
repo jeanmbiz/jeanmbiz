@@ -39,9 +39,12 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanmbiz&layout=compact&langs_count=7&theme=default"/>
 </div>
 
-   <div heigth="425em">
+   
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
-      </div>
+   
+   <div align="center"><img align="center" height="500em" src="./profile-3d-contrib/profile-night-rainbow.svg" /></div>
+
+      
 
 <hr/>
 
