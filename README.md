@@ -73,11 +73,11 @@
 
   
 <div align="center">
-<h3>"Tente uma, duas, três vezes e se possível tente a quarta, a quinta e quantas vezes for necessário. Só não desista nas primeiras tentativas, a persistência é amiga da conquista. Se você quer chegar aonde a maioria não chega, faça o que a maioria não faz." - Bill Gates<h3/>
+<h3>"Todos neste país deveriam aprender a programar um computador, pois isto ensina a pensar." - Steve Jobs<h3/>
 </div>
 
 ###
 
-![Snake animation](https://github.com/dbentooojj/dbentooojj/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/jeanmbiz/jeanmbiz/blob/output/github-contribution-grid-snake.svg)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=100&section=footer"/>
