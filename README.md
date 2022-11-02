@@ -44,7 +44,7 @@
 
    
    
-   <div align="center"><img align="center" height="500em" src="./profile-3d-contrib/profile-night-rainbow.svg" /></div>
+   <div align="center"><img align="center" height="502em" src="./profile-3d-contrib/profile-night-rainbow.svg" /></div>
 
       
 
