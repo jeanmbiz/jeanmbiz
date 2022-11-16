@@ -53,7 +53,7 @@
   ![Snake animation](https://github.com/jeanmbiz/jeanmbiz/blob/output/github-contribution-grid-snake.svg)
    
    <div align="center">
-<h3>"Todos neste país deveriam aprender a programar um computador, pois isto ensina a pensar." - Steve Jobs<h3/>
+<h3>"Todos neste país deveriam aprender a programar um computador, pois isto ensina a pensar...." - Steve Jobs<h3/>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=100&section=footer"/>
