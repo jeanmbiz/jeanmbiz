@@ -7,7 +7,6 @@
 <div align="center">
 <a href="https://www.linkedin.com/in/jean-michel-biz-7892a0247/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:jeanmbiz@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/jean_bizz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   </a>
   
 <a href="https://api.whatsapp.com/send/?phone=5547984851404&text=Ol%C3%A1%2C+estou+entrando+em+contato+com+voc%C3%AA+pelo+seu+n%C3%BAmero+disponibilizado+no+GitHub.&type=phone_number&app_absent=0">
